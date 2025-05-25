@@ -1,0 +1,25 @@
+# Flutter/Dart
+*.g.dart
+build/
+.dart_tool/
+.idea/
+*.iml
+*.lock
+ios/Runner.xcworkspace/
+android/.gradle/
+.env
+*.log
+flutter_*.log
+/flutter_app_with_node/build/
+/flutter_app_with_node/.dart_tool/
+
+# Node.js
+/flutter_app_with_node/backend/node_modules/
+/flutter_app_with_node/backend/package-lock.json
+npm-debug.log
+yarn-error.log
+
+# macOS/Linux/Windows specific files
+.DS_Store
+*.swp
+*.swo
